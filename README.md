@@ -64,7 +64,7 @@ but then the collection wont look compact
 - [Linear Algebra Methods in Combinatorics](https://people.cs.uchicago.edu/~laci/CLASS/HANDOUTS-COMB/BaFrNew.pdf)
 --------------------------------
 ## Algebra
---------------------------------
+
 ### Polynomials
 
 - [Polynomials, Rhoan Goyal](articles/Polynomials.pdf)
