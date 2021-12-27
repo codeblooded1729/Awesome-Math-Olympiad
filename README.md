@@ -53,6 +53,8 @@ but then the collection wont look compact
 
 ### Algebraic Methods
 - [Generating Functionology](https://www2.math.upenn.edu/~wilf/gfologyLinked2.pdf)
+- [Linear Algebra Methods in Combinatorics](https://people.cs.uchicago.edu/~laci/CLASS/HANDOUTS-COMB/BaFrNew.pdf)
+
 
 ### Algorithms
 - [Algorithms, Cody johnson](https://people.bath.ac.uk/masgcs/algorithms.pdf)
@@ -60,9 +62,7 @@ but then the collection wont look compact
 ### Recommended books
 - [Problem Solving Methods in Combinatorics](https://www.amazon.in/Problem-Solving-Methods-Combinatorics-Approach-Olympiad/dp/3034805969)
 
-### Advanced  Methods
-- [Linear Algebra Methods in Combinatorics](https://people.cs.uchicago.edu/~laci/CLASS/HANDOUTS-COMB/BaFrNew.pdf)
---------------------------------
+-------------------------------
 # Algebra
 
 ### Polynomials
