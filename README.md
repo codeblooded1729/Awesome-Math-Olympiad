@@ -15,4 +15,4 @@ but then the collection wont look compact
 # Number Theory
 
 ### Lemmas
-- [A Factoring Lemma](factor.pdf)
+- [A Factoring Lemma](articles/factor.pdf)
