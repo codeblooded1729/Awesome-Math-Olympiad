@@ -29,7 +29,7 @@ but then the collection wont look compact
 - [Lifting The Exponent Lemma](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvMC9mL2I3NWVmM2MyZDRiYTFlN2EzMzQxMTI2ZmM3NTNjMTcxODFmNmYw&rn=TGlmdGluZyBUaGUgRXhwb25lbnQgLSBWZXJzaW9uIDUucGRm)
 
 ### Advanced Topics
-- [A Taste of Analytic Number Theory] (https://www.cmi.ac.in/~ayannath/olympiad-analytic-nt.pdf)
+- [A Taste of Analytic Number Theory](https://www.cmi.ac.in/~ayannath/olympiad-analytic-nt.pdf)
 
 ### miscellaneous
 - [Cyclotomic Polynomials in Number Theory](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYy84LzMxZGEwZGU0MWYzYWQ3YzQ0Njk5M2FjMTY3MzQ1YmMzYjRmMTE4&rn=Q3ljbG90b21pYyBQb2x5bm9taWFscy5wZGY=)
