@@ -9,12 +9,13 @@ but then the collection wont look compact
 
 # Geometry
 
-#Inversive Geometry
+# Inversive Geometry
 
 -[Inversion on The Fly](articles/inversion.pdf)
-#Projective Geometry
+# Projective Geometry
 
 -[Desargue Involution Theorem](https://artofproblemsolving.com/community/q1h1509866p8957048)
+-[Polar Duality in Olympiad Geometry](https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2020-03/mr_3_2020_polar_duality.pdf)
 
 ### miscellaneous
 
@@ -33,6 +34,8 @@ but then the collection wont look compact
 ### miscellaneous
 - [Cyclotomic Polynomials in Number Theory](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYy84LzMxZGEwZGU0MWYzYWQ3YzQ0Njk5M2FjMTY3MzQ1YmMzYjRmMTE4&rn=Q3ljbG90b21pYyBQb2x5bm9taWFscy5wZGY=)
 
+### Free books
+-[Modern Olympiad Number Theory](https://www.academia.edu/44512122/Modern_Olympiad_Number_Theory)
 # Combinatorics
 
 ### Algorithms
@@ -40,6 +43,9 @@ but then the collection wont look compact
 
 # Algebra
 
+# Polynomials
+
+-[Polynomials, Rhoan Goyal](articles/Polynomials.pdf)
 ### Inequalities 
 
 -[Stronger Mixing Variables Method](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYi83LzZiZjY1YTNkZGI5M2Y2YzgyMDRlZTFkNmJjMTI3N2NmMWI4OWVjLnBkZg==&rn=MjAwNl82X21peGluZy5wZGY=)
