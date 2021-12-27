@@ -7,8 +7,18 @@ but then the collection wont look compact
 - Do not include pirated content. (Especially not which are available on libgen (Hope you get the pun))
 - If you get lot of articles on specific topic, plz include them in a subtopic which describes all of them well (for example , articles on **moving points** )
 
-# Geometry
+# Table of Contents
+-------------------------
 
+- [Geometry](#Geometry)
+- [Number Theory](#Number-Theory)
+- [Combinatorics](#combinatorics)
+- [Algebra](#algebra)
+- [General Olympiad Topics](#general-olympiad-topics)
+- [Useful Websites](#useful-websites)
+--------------------------
+# Geometry
+--------------------------
 ### Inversive Geometry
 
 - [Inversion on The Fly](articles/Inversion.pdf)
@@ -24,9 +34,9 @@ but then the collection wont look compact
 
 ### Recommended Books
 - [Geometry of Conics](https://www.amazon.com/Geometry-Conics-Mathematical-World-Akopyan/dp/0821843230)
-
+----------------------------
 # Number Theory
-
+----------------------------
 ### Lemmas
 - [A Factoring Lemma](articles/factor.pdf)
 - [Lifting The Exponent Lemma](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvMC9mL2I3NWVmM2MyZDRiYTFlN2EzMzQxMTI2ZmM3NTNjMTcxODFmNmYw&rn=TGlmdGluZyBUaGUgRXhwb25lbnQgLSBWZXJzaW9uIDUucGRm)
@@ -39,8 +49,9 @@ but then the collection wont look compact
 
 ### Free books
 - [Modern Olympiad Number Theory](https://www.academia.edu/44512122/Modern_Olympiad_Number_Theory)
+------------------------------
 # Combinatorics
-
+------------------------------
 ### Algebraic Methods
 - [Generating Functionology](https://www2.math.upenn.edu/~wilf/gfologyLinked2.pdf)
 
@@ -52,8 +63,9 @@ but then the collection wont look compact
 
 ### Advanced  Methods
 - [Linear Algebra Methods in Combinatorics](https://people.cs.uchicago.edu/~laci/CLASS/HANDOUTS-COMB/BaFrNew.pdf)
+--------------------------------
 # Algebra
-
+--------------------------------
 ### Polynomials
 
 - [Polynomials, Rhoan Goyal](articles/Polynomials.pdf)
@@ -68,10 +80,12 @@ but then the collection wont look compact
 ### Recommended books
 - [Problems From the Book](https://www.amazon.com/Problems-Book-Titu-Andreescu/dp/0979926904)  (Highly recommended for advanced students)
 - [Straight From the Book](https://www.amazon.in/Straight-Book-1-Titu-Andreescu/dp/0979926939) (Highly recommended for advanced students)
+---------------------------------
 # Useful Websites
-
+---------------------------------
 - [Evan Chen's Website](https://web.evanchen.cc/olympiad.html)
 - [Yufei Zhao's Website](https://yufeizhao.com/olympiad/)
 - [Mathematical Excalibur](https://www.math.hkust.edu.hk/excalibur/excalibur.htm)
 - [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/)
 - [Canada IMO Training Website](https://sites.google.com/site/imocanada/)
+---------------------------------
