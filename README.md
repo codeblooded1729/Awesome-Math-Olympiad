@@ -34,7 +34,7 @@ but then the collection wont look compact
 ### Recommended Books
 - [Geometry of Conics](https://www.amazon.com/Geometry-Conics-Mathematical-World-Akopyan/dp/0821843230)
 ----------------------------
-## Number Theory
+# Number Theory
 
 ### Lemmas
 - [A Factoring Lemma](articles/factor.pdf)
@@ -63,7 +63,7 @@ but then the collection wont look compact
 ### Advanced  Methods
 - [Linear Algebra Methods in Combinatorics](https://people.cs.uchicago.edu/~laci/CLASS/HANDOUTS-COMB/BaFrNew.pdf)
 --------------------------------
-## Algebra
+# Algebra
 
 ### Polynomials
 
