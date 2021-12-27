@@ -9,10 +9,10 @@ but then the collection wont look compact
 
 # Geometry
 
-# Inversive Geometry
+### Inversive Geometry
 
 - [Inversion on The Fly](articles/inversion.pdf)
-# Projective Geometry
+### Projective Geometry
 
 - [Desargue Involution Theorem](https://artofproblemsolving.com/community/q1h1509866p8957048)
 - [Polar Duality in Olympiad Geometry](https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2020-03/mr_3_2020_polar_duality.pdf)
@@ -43,7 +43,7 @@ but then the collection wont look compact
 
 # Algebra
 
-# Polynomials
+### Polynomials
 
 - [Polynomials, Rhoan Goyal](articles/Polynomials.pdf)
 ### Inequalities 
