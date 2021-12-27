@@ -59,6 +59,7 @@ but then the collection wont look compact
 # Useful Websites
 
 - [Evan Chen's Website](https://web.evanchen.cc/olympiad.html)
+- [Yufei Zhao's Website](https://yufeizhao.com/olympiad/)
 - [Mathematical Excalibur](https://www.math.hkust.edu.hk/excalibur/excalibur.htm)
 - [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/)
 - [Canada IMO Training Website](https://sites.google.com/site/imocanada/)
