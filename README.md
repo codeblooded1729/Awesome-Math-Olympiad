@@ -38,9 +38,14 @@ but then the collection wont look compact
 - [Modern Olympiad Number Theory](https://www.academia.edu/44512122/Modern_Olympiad_Number_Theory)
 # Combinatorics
 
+### Algebraic Methods
+- [Generating Functionology](https://www2.math.upenn.edu/~wilf/gfologyLinked2.pdf)
+
 ### Algorithms
 - [Algorithms, Cody johnson](https://people.bath.ac.uk/masgcs/algorithms.pdf)
 
+### Advanced  Methods
+- [Linear Algebra Methods in Combinatorics](https://people.cs.uchicago.edu/~laci/CLASS/HANDOUTS-COMB/BaFrNew.pdf)
 # Algebra
 
 ### Polynomials
@@ -51,3 +56,9 @@ but then the collection wont look compact
 - [Stronger Mixing Variables Method](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYi83LzZiZjY1YTNkZGI5M2Y2YzgyMDRlZTFkNmJjMTI3N2NmMWI4OWVjLnBkZg==&rn=MjAwNl82X21peGluZy5wZGY=)
 - [Inequalities, A Brief Approach](https://artofproblemsolving.com/community/q2h2450483p20373650)
  
+# Useful Websites
+
+- [Evan Chen's Website](https://web.evanchen.cc/olympiad.html)
+- [Mathematical Excalibur](https://www.math.hkust.edu.hk/excalibur/excalibur.htm)
+- [Mathematical Reflections](https://www.awesomemath.org/mathematical-reflections/)
+- [Canada IMO Training Website](https://sites.google.com/site/imocanada/)
