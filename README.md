@@ -35,7 +35,7 @@ but then the collection wont look compact
 - [Geometry of Conics](https://www.amazon.com/Geometry-Conics-Mathematical-World-Akopyan/dp/0821843230)
 ----------------------------
 ## Number Theory
-----------------------------
+
 ### Lemmas
 - [A Factoring Lemma](articles/factor.pdf)
 - [Lifting The Exponent Lemma](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvMC9mL2I3NWVmM2MyZDRiYTFlN2EzMzQxMTI2ZmM3NTNjMTcxODFmNmYw&rn=TGlmdGluZyBUaGUgRXhwb25lbnQgLSBWZXJzaW9uIDUucGRm)
