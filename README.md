@@ -7,8 +7,7 @@ but then the collection wont look compact
 - Do not include pirated content. (Especially not which are available on libgen (Hope you get the pun))
 - If you get lot of articles on specific topic, plz include them in a subtopic which describes all of them well (for example , articles on **moving points** )
 
-## Table of Contents
--------------------------
+# Table of Contents
 
 - [Geometry](#Geometry)
 - [Number Theory](#Number-Theory)
@@ -17,8 +16,8 @@ but then the collection wont look compact
 - [General Olympiad Topics](#general-olympiad-topics)
 - [Useful Websites](#useful-websites)
 --------------------------
-## Geometry
---------------------------
+# Geometry
+
 ### Inversive Geometry
 
 - [Inversion on The Fly](articles/Inversion.pdf)
@@ -50,8 +49,8 @@ but then the collection wont look compact
 ### Free books
 - [Modern Olympiad Number Theory](https://www.academia.edu/44512122/Modern_Olympiad_Number_Theory)
 ------------------------------
-## Combinatorics
-------------------------------
+# Combinatorics
+
 ### Algebraic Methods
 - [Generating Functionology](https://www2.math.upenn.edu/~wilf/gfologyLinked2.pdf)
 
@@ -74,15 +73,14 @@ but then the collection wont look compact
 - [Stronger Mixing Variables Method](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYi83LzZiZjY1YTNkZGI5M2Y2YzgyMDRlZTFkNmJjMTI3N2NmMWI4OWVjLnBkZg==&rn=MjAwNl82X21peGluZy5wZGY=)
 - [Inequalities, A Brief Approach](https://artofproblemsolving.com/community/q2h2450483p20373650)
 
-
-## General Olympiad Topics
+--------------------------------
+# General Olympiad Topics
 
 ### Recommended books
 - [Problems From the Book](https://www.amazon.com/Problems-Book-Titu-Andreescu/dp/0979926904)  (Highly recommended for advanced students)
 - [Straight From the Book](https://www.amazon.in/Straight-Book-1-Titu-Andreescu/dp/0979926939) (Highly recommended for advanced students)
 ---------------------------------
-## Useful Websites
----------------------------------
+# Useful Websites
 - [Evan Chen's Website](https://web.evanchen.cc/olympiad.html)
 - [Yufei Zhao's Website](https://yufeizhao.com/olympiad/)
 - [Mathematical Excalibur](https://www.math.hkust.edu.hk/excalibur/excalibur.htm)
