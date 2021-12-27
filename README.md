@@ -7,7 +7,7 @@ but then the collection wont look compact
 - Do not include pirated content. (Especially not which are available on libgen (Hope you get the pun))
 - If you get lot of articles on specific topic, plz include them in a subtopic which describes all of them well (for example , articles on **moving points** )
 
-# Table of Contents
+## Table of Contents
 -------------------------
 
 - [Geometry](#Geometry)
@@ -17,7 +17,7 @@ but then the collection wont look compact
 - [General Olympiad Topics](#general-olympiad-topics)
 - [Useful Websites](#useful-websites)
 --------------------------
-# Geometry
+## Geometry
 --------------------------
 ### Inversive Geometry
 
@@ -35,7 +35,7 @@ but then the collection wont look compact
 ### Recommended Books
 - [Geometry of Conics](https://www.amazon.com/Geometry-Conics-Mathematical-World-Akopyan/dp/0821843230)
 ----------------------------
-# Number Theory
+## Number Theory
 ----------------------------
 ### Lemmas
 - [A Factoring Lemma](articles/factor.pdf)
@@ -50,7 +50,7 @@ but then the collection wont look compact
 ### Free books
 - [Modern Olympiad Number Theory](https://www.academia.edu/44512122/Modern_Olympiad_Number_Theory)
 ------------------------------
-# Combinatorics
+## Combinatorics
 ------------------------------
 ### Algebraic Methods
 - [Generating Functionology](https://www2.math.upenn.edu/~wilf/gfologyLinked2.pdf)
@@ -64,7 +64,7 @@ but then the collection wont look compact
 ### Advanced  Methods
 - [Linear Algebra Methods in Combinatorics](https://people.cs.uchicago.edu/~laci/CLASS/HANDOUTS-COMB/BaFrNew.pdf)
 --------------------------------
-# Algebra
+## Algebra
 --------------------------------
 ### Polynomials
 
@@ -75,13 +75,13 @@ but then the collection wont look compact
 - [Inequalities, A Brief Approach](https://artofproblemsolving.com/community/q2h2450483p20373650)
 
 
-# General Olympiad Topics
+## General Olympiad Topics
 
 ### Recommended books
 - [Problems From the Book](https://www.amazon.com/Problems-Book-Titu-Andreescu/dp/0979926904)  (Highly recommended for advanced students)
 - [Straight From the Book](https://www.amazon.in/Straight-Book-1-Titu-Andreescu/dp/0979926939) (Highly recommended for advanced students)
 ---------------------------------
-# Useful Websites
+## Useful Websites
 ---------------------------------
 - [Evan Chen's Website](https://web.evanchen.cc/olympiad.html)
 - [Yufei Zhao's Website](https://yufeizhao.com/olympiad/)
