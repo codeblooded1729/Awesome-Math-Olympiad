@@ -17,8 +17,9 @@ but then the collection wont look compact
 - [Desargue Involution Theorem](https://artofproblemsolving.com/community/q1h1509866p8957048)
 - [Polar Duality in Olympiad Geometry](https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2020-03/mr_3_2020_polar_duality.pdf)
 
-### miscellaneous
+### Moving Points Method
 
+- [The Method of Moving Points](articles/Moving_Points) 
 - [The Method of Animation](https://artofproblemsolving.com/community/q1h1952595p13480666)
 
 
