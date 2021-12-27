@@ -19,7 +19,7 @@ but then the collection wont look compact
 
 ### Moving Points Method
 
-- [The Method of Moving Points](articles/Moving_Points) 
+- [The Method of Moving Points](articles/Moving_Points.pdf) 
 - [The Method of Animation](https://artofproblemsolving.com/community/q1h1952595p13480666)
 
 
