@@ -45,7 +45,7 @@ but then the collection wont look compact
 
 # Polynomials
 
--[Polynomials, Rhoan Goyal](articles/Polynomials.pdf)
+- [Polynomials, Rhoan Goyal](articles/Polynomials.pdf)
 ### Inequalities 
 
 - [Stronger Mixing Variables Method](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYi83LzZiZjY1YTNkZGI5M2Y2YzgyMDRlZTFkNmJjMTI3N2NmMWI4OWVjLnBkZg==&rn=MjAwNl82X21peGluZy5wZGY=)
