@@ -22,6 +22,8 @@ but then the collection wont look compact
 - [The Method of Moving Points](articles/Moving_Points.pdf) 
 - [The Method of Animation](https://artofproblemsolving.com/community/q1h1952595p13480666)
 
+### Recommended Books
+- [Geometry of Conics](https://www.amazon.com/Geometry-Conics-Mathematical-World-Akopyan/dp/0821843230)
 
 # Number Theory
 
@@ -45,6 +47,9 @@ but then the collection wont look compact
 ### Algorithms
 - [Algorithms, Cody johnson](https://people.bath.ac.uk/masgcs/algorithms.pdf)
 
+### Recommended books
+- [Problem Solving Methods in Combinatorics](https://www.amazon.in/Problem-Solving-Methods-Combinatorics-Approach-Olympiad/dp/3034805969)
+
 ### Advanced  Methods
 - [Linear Algebra Methods in Combinatorics](https://people.cs.uchicago.edu/~laci/CLASS/HANDOUTS-COMB/BaFrNew.pdf)
 # Algebra
@@ -56,7 +61,13 @@ but then the collection wont look compact
 
 - [Stronger Mixing Variables Method](https://services.artofproblemsolving.com/download.php?id=YXR0YWNobWVudHMvYi83LzZiZjY1YTNkZGI5M2Y2YzgyMDRlZTFkNmJjMTI3N2NmMWI4OWVjLnBkZg==&rn=MjAwNl82X21peGluZy5wZGY=)
 - [Inequalities, A Brief Approach](https://artofproblemsolving.com/community/q2h2450483p20373650)
- 
+
+
+# General Olympiad Topics
+
+### Recommended books
+- [Problems From the Book](https://www.amazon.com/Problems-Book-Titu-Andreescu/dp/0979926904)  (Highly recommended for advanced students)
+- [Straight From the Book](https://www.amazon.in/Straight-Book-1-Titu-Andreescu/dp/0979926939) (Highly recommended for advanced students)
 # Useful Websites
 
 - [Evan Chen's Website](https://web.evanchen.cc/olympiad.html)
