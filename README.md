@@ -11,7 +11,7 @@ but then the collection wont look compact
 
 ### Inversive Geometry
 
-- [Inversion on The Fly](articles/inversion.pdf)
+- [Inversion on The Fly](articles/Inversion.pdf)
 ### Projective Geometry
 
 - [Desargue Involution Theorem](https://artofproblemsolving.com/community/q1h1509866p8957048)
