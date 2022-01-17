@@ -61,6 +61,7 @@ but then the collection wont look compact
 
 ### Recommended books
 - [Problem Solving Methods in Combinatorics](https://www.amazon.in/Problem-Solving-Methods-Combinatorics-Approach-Olympiad/dp/3034805969)
+- [Olympiad Combinatorics](https://artofproblemsolving.com/community/c6h601134)
 
 -------------------------------
 # Algebra
