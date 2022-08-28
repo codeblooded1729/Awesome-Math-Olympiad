@@ -31,6 +31,14 @@ but then the collection wont look compact
 - [The Method of Moving Points](articles/Moving_Points.pdf) 
 - [The Method of Animation](https://artofproblemsolving.com/community/q1h1952595p13480666)
 
+### Linearity of power of point
+- [Linearity of power of point] (https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxrZW5ueXBlbmdtYXRofGd4OjU1ZWZmY2E0NGE4ODVkMjM#:~:text=with%20respect%20to%20some%20circle,of%20computing%20this%20power.)
+
+### Illustrative Problems
+
+- Linearity of point
+  - [problem](https://artofproblemsolving.com/community/c6h1268843) [solution](https://artofproblemsolving.com/community/c6h1268843p25979061)
+
 ### Recommended Books
 - [Geometry of Conics](https://www.amazon.com/Geometry-Conics-Mathematical-World-Akopyan/dp/0821843230)
 ----------------------------
