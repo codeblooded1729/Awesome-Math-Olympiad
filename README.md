@@ -90,7 +90,7 @@ but then the collection wont look compact.
 - [Straight From the Book](https://www.amazon.in/Straight-Book-1-Titu-Andreescu/dp/0979926939) (Highly recommended for advanced students)
 ---------------------------------
 # Useful Websites
-- [Collection (somewhat messy) of olympiad articles/books] (https://www.dropbox.com/sh/w9mfy9qtjs68xzc/AADnnQKWONBsboMGVDiuS-kAa?dl=0)
+- [Collection (somewhat messy) of olympiad articles/books](https://www.dropbox.com/sh/w9mfy9qtjs68xzc/AADnnQKWONBsboMGVDiuS-kAa?dl=0)
 - [Evan Chen's Website](https://web.evanchen.cc/olympiad.html)
 - [Yufei Zhao's Website](https://yufeizhao.com/olympiad/)
 - [Mathematical Excalibur](https://www.math.hkust.edu.hk/excalibur/excalibur.htm)
