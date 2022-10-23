@@ -71,6 +71,10 @@ but then the collection wont look compact
 - [Problem Solving Methods in Combinatorics](https://www.amazon.in/Problem-Solving-Methods-Combinatorics-Approach-Olympiad/dp/3034805969)
 - [Olympiad Combinatorics](https://artofproblemsolving.com/community/c6h601134)
 
+### Advanced Material
+
+- [Probabilistic Method, notes by Yufei Zhao](https://yufeizhao.com/pm/probmethod_notes.pdf)
+
 -------------------------------
 # Algebra
 
@@ -89,6 +93,12 @@ but then the collection wont look compact
 - [Problems From the Book](https://www.amazon.com/Problems-Book-Titu-Andreescu/dp/0979926904)  (Highly recommended for advanced students)
 - [Straight From the Book](https://www.amazon.in/Straight-Book-1-Titu-Andreescu/dp/0979926939) (Highly recommended for advanced students)
 ---------------------------------
+
+# Useful Non Olympiad Topics
+
+- [Less Known Integration Techniques](articles/INTEGRALS_UPDATED.pdf)
+---------------------------------
+
 # Useful Websites
 - [Evan Chen's Website](https://web.evanchen.cc/olympiad.html)
 - [Yufei Zhao's Website](https://yufeizhao.com/olympiad/)
