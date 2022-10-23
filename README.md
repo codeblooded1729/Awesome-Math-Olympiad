@@ -100,6 +100,8 @@ but then the collection wont look compact
 ---------------------------------
 
 # Useful Websites
+
+- [(Kinda Messy) Collection of handouts/books](https://www.dropbox.com/sh/w9mfy9qtjs68xzc/AADnnQKWONBsboMGVDiuS-kAa?dl=0)
 - [Evan Chen's Website](https://web.evanchen.cc/olympiad.html)
 - [Yufei Zhao's Website](https://yufeizhao.com/olympiad/)
 - [Mathematical Excalibur](https://www.math.hkust.edu.hk/excalibur/excalibur.htm)
